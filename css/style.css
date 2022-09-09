@@ -111,9 +111,10 @@ img {vertical-align: middle;}
 }
 
 /* Darker background on mouse-over */
-.btn:hover {
+/*.btn:hover {
     background-color: RoyalBlue;
   }
+  */
   
 * {box-sizing: border-box}
 
@@ -254,7 +255,7 @@ body {
   border: none;
   outline: none;
   padding: 10px 16px;
-  background-color: #f1f1f1;
+  background-color: teal;
   cursor: pointer;
   font-size: 18px;
 }
